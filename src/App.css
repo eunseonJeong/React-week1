@@ -1,0 +1,24 @@
+.app-title{
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.app-text {
+  width: 300px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+
+  border: 5px solid black;
+  border-radius: 20px;
+
+  align-items: center;
+  justify-content: center;
+}
+.app-style {
+  padding: 100px;
+  display: flex;
+  gap: 12px;
+}
